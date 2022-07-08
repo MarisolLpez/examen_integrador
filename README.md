@@ -2,3 +2,4 @@
 Gustavo Perpetua
 Juan Emilio Elizondo
 Arturo Hernandez
+Marisol López
